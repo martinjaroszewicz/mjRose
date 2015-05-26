@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>66A1EC75-15C6-428E-98F0-0EAAF62E62A4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>mjspiral</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F3D7047C-9282-47FB-9B31-6848490AFCFB</key>
+		<string>https://bitbucket.org/martinjaroszewicz-admin/mjspiral.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>mjspiral.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F3D7047C-9282-47FB-9B31-6848490AFCFB</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/martinjaroszewicz-admin/mjspiral.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F3D7047C-9282-47FB-9B31-6848490AFCFB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F3D7047C-9282-47FB-9B31-6848490AFCFB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>mjspiral</string>
+		</dict>
+	</array>
+</dict>
+</plist>
